@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 I’m currently working on<br>NGS data analysis, cancer genomics, and microbiome bioinformatics workflows<br><br>I’m looking to collaborate on<br>Genomics projects, multi-omics analysis, and pipeline development<br><br> I’m looking for help with<br>Advanced single-cell analysis and clinical variant interpretation<br><br> I’m currently learning<br>Single-cell multiomics, cloud/HPC genomics workflows, and AI in genomics<br><br>  Ask me about<br>NGS pipelines, WGS/WES analysis, microbiome data, and R/Python workflows<br><br>
 
 
